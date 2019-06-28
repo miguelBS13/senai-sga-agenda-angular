@@ -1,0 +1,16 @@
+{
+  "contatos": [
+    {
+      "nome": "Miguel Barbosa",
+      "fone": 996574618,
+      "email": "miguelbarbosa1309@gmail.com",
+      "id": 1
+    },
+    {
+      "nome": "Weskley Bezerra",
+      "fone": 996541246,
+      "email": "weskleymb@gmail.com",
+      "id": 2
+    }
+  ]
+}
